@@ -6,7 +6,7 @@ Presently, I am a PhD candidate in Dr. Mark Christie's lab (https://christielab.
 
 Pretty much any ecology or evolution interests me, but other projects I am working on include cryptic local adaptation and life history evolution. Read more about them on my website https://msparks1309.wixsite.com/morganmsparks.
 
-Otherwise, I love to fish, hunt, gather, and garden, with the ultimate goal of making really good food. I have a current obsession with making pizzas.
+Otherwise, I love to fish, hunt, gather, and garden, with the ultimate goal of making really good food. I have a current obsession with making pizza.
 
 Find my science, pizza, and dog pictures on twitter @OncEcoEvo
 
