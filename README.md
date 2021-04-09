@@ -8,7 +8,7 @@ Pretty much any ecology or evolution interests me, but other projects I am worki
 
 Otherwise, I love to fish, hunt, gather, and garden, with the ultimate goal of making really good food. I have a current obsession with making pizzas.
 
-Find my science, pizzas, and dog pictures on twitter @OncEcoEvo\
+Find my science, pizzas, and dog pictures on twitter @OncEcoEvo
 
 
 ![Lake Superior Field Work](https://github.com/morgan-sparks/morgan-sparks/blob/main/Photo%20Sep%2017%2C%2011%2051%2045%20AM.jpg)
