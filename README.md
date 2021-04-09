@@ -1,8 +1,5 @@
 ### Welcome 👋
 
-<!--
-**morgan-sparks/morgan-sparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an evolutionary ecologist using computational tools to answer questions about conservation and invasion biology.
 
 Presently, I am a PhD candidate in Dr. Mark Christie's lab (https://christielab.bio.purdue.edu/) at Purdue University, where I work on the contemporary evolution of pink salmon (Oncorhynchus gorbuscha) that were introduced into the Great Lakes. Previously, I did my MS with Drs. Peter Westley and Jeff Falke at the University of Alaska Fairbanks, working on the developmental thermal biology of sockey salmon (Oncorhynchus nerka) in Bristol Bay, AK. 
